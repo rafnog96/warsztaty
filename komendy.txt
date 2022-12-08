@@ -1,0 +1,9 @@
+git status - Wyświetlenie aktualnego statusu repozytorium
+git init -	Inicjalizacja nowego repozytorium
+git add - Dodanie pliku/ów do następnego commit’a
+git commit -	Dodanie do repozytorium wybranych zmian wraz 
+git log -	Wyświetlenie historii zmian repozytorium
+git remote add origin -	Dodanie zdalnego repozytorium do repozytorium lokalnego
+git push -	Wysłanie lokalnego repozytorium do zdalnego
+git pull -	Pobranie danych ze zdalnego repozytorium i scalenie z lokalnym
+git clone -	Sklonowanie repozytorium do nowego folderu

@@ -1,0 +1,6 @@
+•	Repozytorium – zbiór plików, najczęściej jeden projekt
+•	Status – status określa aktualny stan plików lokalnie zapisanych względem repozytorium
+•	Stage – zebranie wszystkich zmian w jeden etap
+•	Commit – przesłanie zebranych zmian do repozytorium wraz z opisem
+•	Branch – gałąź repozytorium która może być rozwijana niezależnie
+•	Merge – połączenie poszczególnych gałęzi repozytorium
